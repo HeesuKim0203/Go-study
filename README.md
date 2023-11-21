@@ -16,3 +16,8 @@ Go 언어는 2009년에 발표된 언어로 로버스 그리스머, 롭파이크
 7. Pointer : 메모리 주소를 가르키는 포인터가 있습니다.
 8. Generic programming : 제네릭 프로그래밍을 지원하지 않습니다.
 9. Name space : 네임스페이스를 제공하지 않습니다. 모든 코드는 패키지 단위로 분리됩니다.
+
+## 공부 자료
+
+### Algorithm
+[https://www.acmicpc.net/step](https://www.acmicpc.net/step)
