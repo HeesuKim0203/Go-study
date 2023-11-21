@@ -21,3 +21,7 @@ Go 언어는 2009년에 발표된 언어로 로버스 그리스머, 롭파이크
 
 ### Algorithm
 [https://www.acmicpc.net/step](https://www.acmicpc.net/step)
+
+### Syntax
+[https://go.dev/blog/](https://go.dev/blog/)
+[https://go-tour-ko.appspot.com/](https://go-tour-ko.appspot.com/)
