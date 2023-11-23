@@ -6,11 +6,11 @@ func main() {
 	var a int
 	var b int
 
-	n, err = fmt.Scanln(&a, &b)
+	_, err := fmt.Scanln(&a, &b)
 
 	if err != nil {
 		fmt.Println(err)
-	}else {
+	} else {
 		fmt.Println(a + b)
 	}
 }
