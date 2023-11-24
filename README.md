@@ -25,3 +25,11 @@ Go 언어는 2009년에 발표된 언어로 로버스 그리스머, 롭파이크
 ### Syntax
 [https://go.dev/blog/](https://go.dev/blog/)
 [https://go-tour-ko.appspot.com/](https://go-tour-ko.appspot.com/)
+
+## 폴더 구조
+
+대부분 폴더의 이름에 대한 내용이 들어있다.
+
+- testpkg : Go의 모듈과 패키지에 대한 실습 코드
+- testCode : Go의 테스트 코드
+- web1 :  Go를 이용한 web서버 구축 코드
